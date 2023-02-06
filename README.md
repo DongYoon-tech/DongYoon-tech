@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Welcome to my Github!
-### I'm Cesar. I'm a software engineer with background in Mechanical Engineering.
+### I'm Cesar. I'm a software engineer(frontend/backend)!.
 
 <!--
 **DongYoon-tech/DongYoon-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
